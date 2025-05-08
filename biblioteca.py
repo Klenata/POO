@@ -55,4 +55,8 @@ class Pessoa():
             self.dormindo = False
             print(f"{self.name} acordou")
         else:
+<<<<<<< HEAD
             print(f"{self.name} está acordado")
+=======
+            
+>>>>>>> f1aa15ef3cf1f6cb1d69b2c28eb51410dd414bc6
